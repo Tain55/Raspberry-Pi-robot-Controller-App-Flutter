@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691855135265",
+    "project_id": "robot-flutter-firebase",
+    "storage_bucket": "robot-flutter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691855135265:android:fad9371dd52f3b9a5f4960",
+        "android_client_info": {
+          "package_name": "com.example.robot_flutter_irebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691855135265-86acfbjsiq30151m59paa1q1saq3mrvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOiakDcX08zIDAsQeZp6_ZD3vBiRAhxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691855135265-86acfbjsiq30151m59paa1q1saq3mrvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
